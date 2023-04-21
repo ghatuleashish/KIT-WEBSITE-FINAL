@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+.one{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 60px;
+    font-weight: 700;
+}
+.two{
+    position: relative;
+    margin-left: 50px;
+    top: 100px;
+    font-size: 60px;
+    font-weight: 700;
+}
+.three{
+    position: relative;
+    left: 100px;
+    top: 200px;
+    font-size: 60px;
+    font-weight: 700;
+}
+.four{
+    position: relative;
+    left: 200px;
+    top: 300px;
+    font-size: 60px;
+    font-weight: 700;
+}
+.ca{
+    margin-top: 450px;
+    margin-left: 100px;
+    display: flex;
+}
+.ca span{
+    color: rgba(161, 22, 161, 0.781);
+    letter-spacing: 1px;
+    font-weight: 1000;
+    font-size: 80px;
+}
+.ca h4{
+    color: white;
+    font-size: 80px;
+    position: relative;
+    top: -100px;
+    left: 100px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
