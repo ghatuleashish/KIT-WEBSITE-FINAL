@@ -228,7 +228,7 @@ body {
     margin-left: 70px;
     color: rgba(161, 22, 161, 0.781);
     font-weight: 900;
-    text-shadow: 5px 5px 5px #504c4c;
+    text-shadow: 5px 5px 5px rgba(0,0,0,0.4);
 }
 
 .main {
